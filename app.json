@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "GameshotDemo",
-    "slug": "GameshotDemo",
+    "slug": "gameshot-demo-onbhjhoqhidewaytjhoth",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6ee54fba-71f6-44bc-a459-1d0ff98046df"
+      }
+    },
+    "owner": "yifengpan"
   }
 }
